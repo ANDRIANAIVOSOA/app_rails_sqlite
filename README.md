@@ -4,9 +4,9 @@
 ### Pseudo sur slack :  @Fenitra
 	
 #### Ce n'est qu'un début sur Rails et sql
-  Création app rails, 
-  Création base de donnée, model ...
-  Manipulation des tables...
-  Etc...! 
+##### Création app rails, 
+##### Création base de donnée, model ...
+##### Manipulation des tables...
+##### Etc...! 
   
 	
